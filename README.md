@@ -5,7 +5,7 @@
 This repository explores the intersection of physics and artificial intelligence (AI), showcasing how these two fields can collaborate to drive innovation and scientific advancements. Here are some examples of how physics and AI can bridge the gap:
 
 1. **Particle Physics and Deep Learning**: Utilizing AI techniques to analyze large datasets from particle physics experiments to identify patterns and new particles.
-    [Learn more](<a href="https://colab.research.google.com/github/PhysicsAIs/physics-ai-bridging-the-gap/blob/main/example-1.ipynb" target="_blank">Example-1 Notebook</a>)
+    [Learn more](<a href="https://colab.research.google.com/github/PhysicsAIs/physics-ai-bridging-the-gap-/blob/main/example-1.ipynb" target="_blank">Example-1 Notebook</a>)
 3. **Quantum Computing and Machine Learning**: Enhancing machine learning algorithms with quantum computers to tackle complex optimization problems more efficiently.
 4. **Astrophysics and Image Recognition**: Using AI algorithms to analyze astronomical data and identify celestial objects, classify galaxies, or detect exoplanets.
 5. **Fluid Mechanics and Robotics**: Applying physics principles to improve the design and control of robots operating in fluid environments.
