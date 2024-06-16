@@ -8,7 +8,7 @@ This repository explores the intersection of physics and artificial intelligence
     [Learn more](<a href="https://colab.research.google.com/github/PhysicsAIs/physics-ai-bridging-the-gap-/blob/main/example-1.ipynb" target="_blank">Example-1 Notebook</a>)
 3. **Quantum Computing and Machine Learning**: Enhancing machine learning algorithms with quantum computers to tackle complex optimization problems more efficiently.
 4. **Astrophysics and Image Recognition**: Using AI algorithms to analyze astronomical data and identify celestial objects, classify galaxies, or detect exoplanets.
-       [Learn more](<a href="https://colab.research.google.com/github/PhysicsAIs/physics-ai-bridging-the-gap-/blob/main/example-2.ipynb" target="_blank">Example-1 Notebook</a>)
+       [Learn more](<a href="https://colab.research.google.com/github/PhysicsAIs/physics-ai-bridging-the-gap-/blob/main/example-2.ipynb" target="_blank">Example-2 Notebook</a>)
 6. **Fluid Mechanics and Robotics**: Applying physics principles to improve the design and control of robots operating in fluid environments.
 7. **Statistical Physics and Network Analysis**: Leveraging AI techniques to study complex networks like social networks, transportation systems, or biological networks.
 8. **Quantum Mechanics and Quantum Machine Learning**: Integrating quantum mechanics into machine learning tasks for improved pattern recognition and optimization.
