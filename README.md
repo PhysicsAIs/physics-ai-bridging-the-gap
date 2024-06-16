@@ -14,8 +14,9 @@ This repository explores the intersection of physics and artificial intelligence
 8. **Quantum Mechanics and Quantum Machine Learning**: Integrating quantum mechanics into machine learning tasks for improved pattern recognition and optimization.
 9. **Thermodynamics and Energy Optimization**: Applying thermodynamic principles to optimize energy consumption in AI systems.
 10. **Solid State Physics and Materials Discovery**: Using AI to predict and discover new materials with specific properties for various technological applications.
-11. **Biophysics and Medical Imaging**: Enhancing medical imaging modalities with physics-based techniques and AI algorithms for improved disease diagnosis and treatment.
-12. **Quantum Field Theory and Quantum AI**: Applying quantum field theory principles to develop quantum algorithms for advanced AI tasks.
+        [Learn more](<a href="https://colab.research.google.com/github/PhysicsAIs/physics-ai-bridging-the-gap-/blob/main/example-3.ipynb" target="_blank">Example-3 Notebook</a>)
+12. **Biophysics and Medical Imaging**: Enhancing medical imaging modalities with physics-based techniques and AI algorithms for improved disease diagnosis and treatment.
+13. **Quantum Field Theory and Quantum AI**: Applying quantum field theory principles to develop quantum algorithms for advanced AI tasks.
 
 Explore the possibilities of collaboration between physics and AI in this repository and discover how these fields can work together to push the boundaries of scientific research and technological innovation. 
 
